@@ -1,0 +1,9 @@
+[package]
+name = "helper_fn"
+version = "0.1.0"
+authors = ["Andrey Makuha <amakuha1912@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
+pyo3 = "0.5"

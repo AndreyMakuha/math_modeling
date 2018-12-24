@@ -1,0 +1,9 @@
+[package]
+name = "lab6"
+version = "0.1.0"
+authors = ["Andrey Makuha <amakuha1912@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
+helper_fn = { path = "../helper_fn" }

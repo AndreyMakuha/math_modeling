@@ -1,0 +1,17 @@
+[package]
+name = "math_modeling"
+version = "0.1.0"
+authors = ["Andrey Makuha <amakuha1912@gmail.com>"]
+edition = "2018"
+
+[workspace]
+members = [
+    "helper_fn",
+    "lab2",
+    "lab3",
+    "lab4",
+    "lab5",
+    "lab6",
+]
+
+[dependencies]
