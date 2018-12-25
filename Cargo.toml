@@ -1,9 +1,3 @@
-[package]
-name = "math_modeling"
-version = "0.1.0"
-authors = ["Andrey Makuha <amakuha1912@gmail.com>"]
-edition = "2018"
-
 [workspace]
 members = [
     "helper_fn",
@@ -13,5 +7,3 @@ members = [
     "lab5",
     "lab6",
 ]
-
-[dependencies]
